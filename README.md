@@ -63,7 +63,7 @@ No shady EXE. No hidden RAT (probably). Just Python.
 - Live dashboard with accurate progress tracking
 
 ### 🎨 UI
-- Animated ASCII banner with word-by-word **Made By Walter** intro
+- Animated ASCII banner with word-by-word 
 - Rich terminal UI (tables, panels, live stats)
 - Centered layout
 
