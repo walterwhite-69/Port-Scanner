@@ -40,6 +40,8 @@ No shady EXE. No hidden RAT (probably). Just Python.
 
 ---
 
+## YouTube
+[![Watch the video](https://img.youtube.com/vi/Zggs5Etpa4o/maxresdefault.jpg)](https://youtu.be/Zggs5Etpa4o)
 ## ✨ Features
 
 ### 🔍 Port Scanner
